@@ -3,11 +3,6 @@
   <img src="https://raw.githubusercontent.com/juliasbarros/juliasbarros/main/bannerjpg.jpg" width="100%" alt="banner"/>
 </div>
 
-<!-- TITLE -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=C9A84C&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Fear+the+old+blood.;Seek+Paleblood+to+transcend+the+Hunt." alt="Typing SVG"/>
-</div>
-
 <br/>
 
 <!-- CONTACT -->
@@ -61,18 +56,8 @@
 
 ---
 
-## 🗡️ Featured Projects
-
 <div align="center">
 
-[![SEU_REPO](https://github-readme-stats.vercel.app/api/pin/?username=ladymnria&repo=SEU_REPO&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c)](https://github.com/ladymnria/SEU_REPO)
-
-</div>
-
----
-
-<div align="center">
-
-*† Seek Paleblood to transcend the Hunt †*
+*† The rest is silence †*
 
 </div>
