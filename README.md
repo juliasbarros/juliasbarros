@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ladymnria/ladymnria/main/bannerjpg.jpg" width="100%" alt="banner"/>
+  <img src="https://raw.githubusercontent.com/juliasbarros/juliasbarros/main/bannerjpg.jpg" width="100%" alt="banner"/>
 </div>
 
 <!-- TITLE -->
