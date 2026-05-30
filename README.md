@@ -21,20 +21,7 @@
 
 <div align="center">
 
-
 </div>
-
----
-
-
-
-
-
-<br clear="right"/>
-
-
-
----
 
 ## Technologies
 
@@ -50,8 +37,6 @@
 ![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=c9a84c)
 
 </div>
-
----
 
 ## Statistics
 
